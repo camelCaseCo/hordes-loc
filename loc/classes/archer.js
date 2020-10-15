@@ -21,7 +21,8 @@ export default {
     vi: 'Cung thủ',
     cs: 'Lučišník',
     sr: 'Стрелац',
-    it: 'Arciere'
+    it: 'Arciere',
+    ar: 'رام'
   },
 
   // Class description, visible during character creation
@@ -45,6 +46,7 @@ export default {
     vi: 'Cung thủ gây sát thương đơn mục tiêu cao và gây sát thương diện rộng. Một cung thủ tốt phải biết giữ khoảng cách và bẳn tỉa kẻ địch từ xa.',
     cs: 'Lučišník dává vysoké poškození na jednoho hráče a AoE poškození v rychlých intervalech. Dobrý lučišník si vždy bude držet odstup a bude střílet nepřátele z povzdálí.',
     sr: 'Стрелци су изузетно способни да концентришу своју моћ на једну мету и могу да делују на више противника делимично.Добар стрелаље из далека.',
-    it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano.'
+    it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano.',
+    ar: 'يتعرض الرماة لضرر كبير على الهدف الفردي وتلف منطقة تأثير الانفجار. سيحافظ رامي السهام الجيد دائمًا على مسافة بعيدة ويقنص الأعداء من بعيد.'
   }
 }
